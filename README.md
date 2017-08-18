@@ -9,5 +9,5 @@ The firmware is modelled as a state-machine which reads the ADC values, maps the
 
 The implemented state-machine is:
 
-![](.\media\state-machine-1.png)
+![](media/state-machine-1.png)
 
