@@ -9,6 +9,6 @@ The firmware is modelled as a state-machine which reads the ADC values, maps the
 
 ![](media/state-machine-1.png)
 
-An working prototype as can be seen in the video below:
+The video below shows the LED going through different phases of operation while the human is going through Forced Maximal Inhalation:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=uJLOnX5DqEU" target="_blank"><img src="http://img.youtube.com/vi/uJLOnX5DqEU/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> 
